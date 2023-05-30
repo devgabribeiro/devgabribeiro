@@ -7,7 +7,7 @@
 <div> 
   <a href="https://github.com/devgabribeiro">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devgabribeiro&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabribeiro&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabribeiro&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 
 ##
