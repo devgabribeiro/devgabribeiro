@@ -2,6 +2,7 @@
 
 ##
 - Atualmente estudando desenvolvimento web. 🐱‍👓
+- Focado em Front-End 🎨
 ##
 
 <div> 
